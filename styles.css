@@ -111,3 +111,7 @@ body{
     margin: 30px;
     margin-bottom: 60px;
 }
+
+.cancel-button-link:hover{
+    color: hsl(223, 47%, 23%);
+}
