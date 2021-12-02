@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview of finished solution](.design/finished-solution.jpg)
+![Preview of finished solution](.design/finished-solution.png)
 
 ### Links
 
