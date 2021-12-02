@@ -18,7 +18,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 
-Recreate this design from Frontend Mentor as close as possible ![Preview of design to be recreated](./design/desktop-design.jpg)
+Recreate this design from Frontend Mentor as close as possible 
+
+![Preview of design to be recreated](./design/desktop-design.jpg)
 
 Users should be able to:
 
