@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+    color: hsl(223, 47%, 23%);
+}
+
+/*--FOR TEXT NOODLING--*/
+a{
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+}
+
+p{
+    color: hsl(224, 23%, 55%);
+    font-weight: 500;
+}
+
+
+h2{
+    font-weight: 900;
+}
+
+/*--------------------*/
+
+body{
+    background-color: hsl(225, 100%, 94%);
+    background-image: url("images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top top;
+    display: flex;
+    justify-content: center;
+    height: 900px;
+    align-items: center;
+}
+
+.main-container{
+    background-color: white;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.order-summary-container{
+    width: 450px;
+}
+
+.order-summary-text{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.change-plan-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.change-plan-background{
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    display: flex;
+    padding: 20px 30px;
+}
+
+.annual-plan-price{
+    margin-right: 15px;
+}
+
+.change-link{
+    margin-top: 20px;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+
+.icon{
+    margin-right: 15px;
+}
+
+.payment-button{
+    background-color: blue; /*To be changed later*/
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 50px;
+    align-items: center;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 5px 5px 5px 5px rgb(223, 223, 223);
+}
+
+.payment-button:hover{
+    background-color: hsl(245, 75%, 52%);
+}
+
+.payment-link{    
+
+    margin-bottom: 100px;
+}
+
+.cancel-button{
+    margin: 30px;
+    margin-bottom: 60px;
+}
