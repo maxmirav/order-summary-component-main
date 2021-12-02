@@ -86,7 +86,7 @@ body{
 }
 
 .payment-button{
-    background-color: blue; /*To be changed later*/
+    background-color:hsl(245, 75%, 52%); /*To be changed later*/
     width: 350px;
     display: flex;
     justify-content: center;
@@ -99,7 +99,7 @@ body{
 }
 
 .payment-button:hover{
-    background-color: hsl(245, 75%, 52%);
+    background-color:hsla(245, 75%, 52%, 0.699);
 }
 
 .payment-link{    
