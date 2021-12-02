@@ -14,8 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,7 +24,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshot of Finished Solution
 
 ![Preview of finished solution](./design/finished-solution.png)
 
@@ -47,14 +45,15 @@ Users should be able to:
 ### What I learned
 
 I learned a lot about Flexbox, mostly how to control Flex items using justify-content and align-items.
+
 Things that were new to me:
 
--You can use CSS to add a shadow to div boxes (makes flat divs pop out).
--When using Google Fonts, you can use multiple font weights of the same font. Just click on the weights or styles that you want to incorporate in your project.
+- You can use CSS to add a shadow to div boxes (makes flat divs pop out).
+- When using Google Fonts, you can use multiple font weights of the same font. Just click on the weights or styles that you want to incorporate in your project.
 
 ## Author
 
 - Website - [Max Miravite](https://www.maxmirav.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/maxmirav)
-- Twitter - [@yourusername](https://www.twitter.com/MaxMiravite)
+- Frontend Mentor - [@maxmirav](https://www.frontendmentor.io/profile/maxmirav)
+- Twitter - [@MaxMiravite](https://www.twitter.com/MaxMiravite)
 
