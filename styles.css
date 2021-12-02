@@ -81,6 +81,11 @@ body{
     text-decoration: underline;
 }
 
+.change-link:hover{
+    text-decoration: none;
+    color: hsla(245, 75%, 52%, 0.699);
+}
+
 .icon{
     margin-right: 15px;
 }
