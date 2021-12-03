@@ -80,6 +80,7 @@ body{
     margin-top: 20px;
     margin-left: 50px;
     text-decoration: underline;
+    color: hsl(245, 75%, 52%);
 }
 
 .change-link:hover{
